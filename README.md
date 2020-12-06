@@ -2,7 +2,7 @@
 
 You are Baby Yoda and your goal is to catch as many knobs and frogs as possible while avoiding Mando!
 
-Player is greeted with the Star Wars theme song as a backdrop to their game play. Sprites also start falling at an increased rate as the game goes on, making it harder to avoid Mando.
+Player is greeted with the Star Wars theme song as a backdrop to their game play. Sprites also start falling at an increasing rate as the game goes on, making it harder to avoid Mando.
 
 
 
