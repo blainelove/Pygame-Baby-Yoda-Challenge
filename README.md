@@ -1,4 +1,4 @@
-**Baby Yoda Challenge** is a video game developed using Python's [Pygame](https://www.pygame.org/docs/).
+**Baby Yoda Challenge** is a video game I developed using Python's [Pygame](https://www.pygame.org/docs/).
 
 You are Baby Yoda and your goal is to catch as many knobs and frogs as possible while avoiding Mando!
 
